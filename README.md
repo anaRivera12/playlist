@@ -17,12 +17,14 @@ JavaScript
 [ ] Repeat these steps for song artist, song length, image, and link
 Wrap
 [ ] Push your changes!
+
 Day 2
 JavaScript
 [ ] Create a loop to display your song names
 [ ] Repeat these steps for song artist, song length, image, and link
 Wrap
 [ ] Push your changes!
+
 Day 3
 JavaScript
 [ ] Add song information to your list using .push()
@@ -30,6 +32,7 @@ JavaScript
 Wrap
 [ ] Push your changes!
 Day 4
+
 JavaScript
 [ ] Comment out your code that refers to arrays
 [ ] Create Objects in your playlist project that hold all your song information
@@ -37,6 +40,7 @@ JavaScript
 Wrap
 [ ] Push your changes!
 Day 5
+
 JavaScript
 [ ] Update your .push() method based on your new array of Objects
 [ ] Update your loop based on your new array of Objects
@@ -44,6 +48,7 @@ JavaScript
 Wrap
 [ ] Push your changes!
 Project Extensions:
+
 [ ] Add in your own CSS to personalize your project
 [ ] Use .length to display how many songs are on your list
 [ ] Add a delete button to delete songs on your list
